@@ -2,7 +2,19 @@
 
 ### 喜欢学习编程，并把想法做成真正可用的项目
 
+<br/>
+
+![GitHub followers](https://img.shields.io/github/followers/Adobiz?style=for-the-badge&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/Adobiz?style=for-the-badge&logo=github)
+![Profile views](https://komarev.com/ghpvc/?username=Adobiz&style=for-the-badge&color=blueviolet)
+
+
+[![爱发电](https://img.shields.io/badge/爱发电-支持我-ff69b4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyMS4zNWwtMS40NS0xLjMyQzUuNCAxNS4zNiAyIDEyLjI4IDIgOC41IDIgNS40MiA0LjQyIDMgNy41IDNjMS43NCAwIDMuNDEuODEgNC41IDIuMDlDMTMuMDkgMy44MSAxNC43NiAzIDE2LjUgMyAxOS41OCAzIDIyIDUuNDIgMjIgOC41YzAgMy43OC0zLjQgNi44Ni04LjU1IDExLjU0TDEyIDIxLjM1eiIvPjwvc3ZnPg==)](https://ifdian.net/a/adobiz)
+
+</div>
+
 ---
+
 
 ## 🧠 关于我
 
@@ -25,11 +37,20 @@
 
 ---
 
-## 📊 GitHub 数据
+## 📊 GitHub 数据卡片
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=transparent)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=Adobiz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=cn" />
+      </td>
+      <td align="center" width="50%">
+        <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Adobiz&layout=compact&theme=tokyonight&hide_border=true&locale=cn" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
