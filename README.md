@@ -74,7 +74,7 @@ PI Drive Hub 是一款轻量级云聚合器，专为国内中国云存储设计�
 
 ## 🛠️ 技术栈
 
-![Skills](https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode)
+![Skills](https://skillicons.dev/icons?i=python,cpp,go,nodejs,flutter,react,html,css,ts,redis,docker,git,linux,mysql,vscode)
 
 ---
 
