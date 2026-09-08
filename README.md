@@ -47,6 +47,13 @@ PI Drive Hub 是一款轻量级云聚合器，专为国内中国云存储设计�
 </tr>
 <tr>
 <td width="50%">
+
+### 📓 [obsidian-mistake-notebook](https://github.com/Adobiz/obsidian-mistake-notebook)
+
+Obsidian 错题本（Mistake Notebook）：一道错题一条笔记，答案自动遮住逼你先想，长答案自动拆页、随时就地录入，还有学习热力仪表盘——纯 Markdown 存储，不锁数据，让错题真正被复习而不是被抄写。
+
+</td>
+<td width="50%">
   
 ### 🧪 更多点子产出中  
 这里经常会出现一些奇怪但有用的项目。  
