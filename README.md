@@ -31,12 +31,19 @@
 <table>
 <tr>
 <td width="50%">
+
+### 🛠️ [Nano Cloud](https://github.com/Adobiz/nano-cloud)
+基于 Cloudflare Workers、R2 和 D1 的轻量自托管网盘
+
+</td>
+<td width="50%">
   
 ### 🛠️ [PI Drive Hub](https://github.com/Adobiz/Pi-Drive-Hub)
 
 PI Drive Hub 是一款轻量级云聚合器，专为国内中国云存储设计。它将百度网盘、夸克网盘和123云盘无缝集成到一个统一的界面中，提供了一站式的便捷服务。
 
 </td>
+<tr>
 <td width="50%">
 
 ### ✨ [VibeKeys](https://github.com/Adobiz/VibeKeys)
@@ -44,8 +51,6 @@ PI Drive Hub 是一款轻量级云聚合器，专为国内中国云存储设计�
 一个轻量、原生、Windows-first 的鼠标键位映射工具。通过捕获鼠标侧键，自动识别当前前台窗口，让你在离开键盘的情况下更流畅地操控 Agent，享受VibeCoding的乐趣。
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 📓 [obsidian-mistake-notebook](https://github.com/Adobiz/obsidian-mistake-notebook)
@@ -53,6 +58,7 @@ PI Drive Hub 是一款轻量级云聚合器，专为国内中国云存储设计�
 Obsidian 错题本（Mistake Notebook）：一道错题一条笔记，答案自动遮住逼你先想，长答案自动拆页、随时就地录入，还有学习热力仪表盘——纯 Markdown 存储，不锁数据，让错题真正被复习而不是被抄写。
 
 </td>
+</tr>
 <td width="50%">
   
 ### 🧪 更多点子产出中  
