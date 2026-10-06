@@ -117,5 +117,6 @@ Obsidian 错题本（Mistake Notebook）：一道错题一条笔记，答案自�
 ---
 
 
-
+> Infinite Progress
+> 
 > 无限进步。
