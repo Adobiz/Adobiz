@@ -105,9 +105,17 @@ Obsidian 错题本（Mistake Notebook）：一道错题一条笔记，答案自�
 
 ## 💖 支持我
 
-如果你觉得我的项目有用，欢迎通过 [爱发电](https://ifdian.net/a/adobiz) 支持我 ❤️  
-你的每一份支持都是我继续折腾的动力！
+> 如果你觉得我的项目有用，欢迎通过 [爱发电](https://ifdian.net/a/adobiz) 支持我 ❤️  
+> 你的每一份支持都是我继续折腾的动力！
 
 ---
+
+> I welcome internship, employment, and research collaboration opportunities. Please contact me at zako-zako@foxmail.com.
+>
+> 欢迎提供实习、工作及科研合作机会，请邮件联系：zako-zako@foxmail.com。
+
+---
+
+
 
 > 无限进步。
