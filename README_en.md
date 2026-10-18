@@ -13,7 +13,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Adobiz?style=for-the-badge&logo=github)
 ![GitHub stars](https://img.shields.io/github/stars/Adobiz?style=for-the-badge&logo=github)
-![Profile views](https://komarev.com/ghpvc/?username=Adobiz&style=for-the-badge&color=blueviolet)
 
 [![Afdian](https://img.shields.io/badge/Afdian-Support%20Me-ff69b4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyMS4zNWwtMS40NS0xLjMyQzUuNCAxNS4zNiAyIDEyLjI4IDIgOC41IDIgNS40MiA0LjQyIDMgNy41IDNjMS43NCAwIDMuNDEuODEgNC41IDIuMDlDMTMuMDkgMy44MSAxNC43NiAzIDE2LjUgMyAxOS41OCAzIDIyIDUuNDIgMjIgOC41YzAgMy43OC0zLjQgNi44Ni04LjU1IDExLjU0TDEyIDIxLjM1eiIvPjwvc3ZnPg==)](https://ifdian.net/a/adobiz)
 
