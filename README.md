@@ -6,7 +6,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/Adobiz?style=for-the-badge&logo=github)
 ![GitHub stars](https://img.shields.io/github/stars/Adobiz?style=for-the-badge&logo=github)
-![Profile views](https://komarev.com/ghpvc/?username=Adobiz&style=for-the-badge&color=blueviolet)
 
 [![中文](https://img.shields.io/badge/语言-中文-red?style=for-the-badge)](./README.md)
 [![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](./README_en.md)
